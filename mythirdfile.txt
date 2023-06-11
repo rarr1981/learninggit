@@ -1,4 +1,5 @@
 Checking commmit step in gitBash
 Adding a new line within this file at 16:56
 Once again, I am adding a new line here.
+Another comment at 18:00
 
